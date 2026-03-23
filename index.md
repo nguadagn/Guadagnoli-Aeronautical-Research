@@ -19,3 +19,8 @@ This project focuses on the research and development of flapping-wing aircraft (
 ## Author
 Niccolo Guadagnoli  
 Aerospace/Aeronautical Engineering
+
+## Weekly Progress
+
+Week 1:
+Initial aerodynamic modeling and concept development for a flapping wing system.
