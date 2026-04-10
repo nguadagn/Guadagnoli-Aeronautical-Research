@@ -22,5 +22,5 @@ Aerospace/Aeronautical Engineering
 
 ## Weekly Progress
 
-Week 1:
-Initial aerodynamic modeling and concept development for a flapping wing system.
+Week 1-3:
+Concept development for a flapping wing system, field study, and observations.
